@@ -12,7 +12,7 @@ function myFunction(myObj) {
         hatValue,
         shirtValue,
         shoesValue
-    }
+    };
 };
 // Only change code above this line
 console.log(myFunction(myClothes)); // Change this line
