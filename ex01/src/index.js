@@ -3,7 +3,7 @@ var myPet = {
     species: "Dog",
     name: "Roki",
     legs: 4,
-    friends: ["Roki", "Pujdo"]
+    friends: ["Lesi", "Pujdo"]
 };
 function myFunction(myObj) {
     return myObj;
